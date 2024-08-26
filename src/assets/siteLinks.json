@@ -1,37 +1,37 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "个人博客",
+    "link": "https://blog.vifereo.eu.org/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "在线思维导图",
+    "link": "https://map.vifereo.eu.org/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "在线白板工具",
+    "link": "https://mydraw.vifereo.eu.org/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "AI 工具集",
+    "link": "https://ai-bot.cn//"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "软件测试专业术语",
+    "link": "http://tlg.vifereo.eu.org/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "编程快速开发清单",
+    "link": "https://refer.vifereo.eu.org//"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "软件源与 Docker源",
+    "link": "https://mirror.vifereo.eu.org/"
   }
 ]
