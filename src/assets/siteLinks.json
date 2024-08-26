@@ -31,7 +31,17 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "软件源与 Docker源",
-    "link": "https://mirror.vifereo.eu.org/"
+    "name": "Linux软件源",
+    "link": "https://mirror.vifereo.eu.org/main.sh"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Docker软件源",
+    "link": "https://mirror.vifereo.eu.org/docker.sh"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Docker私有镜像加速",
+    "link": "https://notwo.vifereo.eu.org"
   }
 ]
