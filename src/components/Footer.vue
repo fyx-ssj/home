@@ -11,7 +11,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="https://blog.vifereo.eu.org/about/">{{ siteAuthor }}</a>
+          <a href="https://blog.vifereo.eu.org/about/"> VIFEREO </a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
