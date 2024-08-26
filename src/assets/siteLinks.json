@@ -5,6 +5,11 @@
     "link": "https://blog.vifereo.eu.org/"
   },
   {
+    "icon": "Book",
+    "name": "起始搜索页",
+    "link": "https://self.vifereo.eu.org/"
+  },
+  {
     "icon": "Cloud",
     "name": "在线思维导图",
     "link": "https://map.vifereo.eu.org/"
