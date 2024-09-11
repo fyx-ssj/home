@@ -26,6 +26,11 @@
   },
   {
     "icon": "Book",
+    "name": "IT 工具集",
+    "link": "https://tools.vifereo.eu.org/"
+  },
+  {
+    "icon": "Book",
     "name": "软件测试专业术语",
     "link": "https://tlg.vifereo.eu.org/"
   },
