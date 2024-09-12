@@ -1,5 +1,10 @@
 [
   {
+    "icon": "LaptopCode",
+    "name": "本人介绍",
+    "link": "https://blog.vifereo.eu.org/about/"
+  },
+  {
     "icon": "Blog",
     "name": "个人博客",
     "link": "https://blog.vifereo.eu.org/"
